@@ -6,6 +6,6 @@ Analyse de l'évolution des besoins en ressources humaines
 * Effectif par service
 * Durée par service
 * Motif affectation par service
-* 
+
 -Analyse predictive
-* En 2030, evolution affectation des services
+* En 2030, evolution affectation des services ?
