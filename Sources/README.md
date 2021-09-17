@@ -1,7 +1,7 @@
 Analyse de l'évolution des besoins en ressources humaines
 -------- Gestion des carrières : affectation et recrutement ---------
 
--Analyse statistique descriptive :
+-Analyse statistique descriptive : (Analyse univarié et bivarié)
 * Evolution des services
 * Effectif par service
 * Durée par service
