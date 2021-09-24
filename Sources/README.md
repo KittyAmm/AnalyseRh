@@ -9,4 +9,4 @@ Analyse de l'évolution des besoins en ressources humaines
 
 -Analyse predictive
 * En 2025,2030,... evolution effectif d'affectation par service
-* Taux ou volume d'affectation futur par service
+* Taux ou volume d'affectation futur dans un service choisi service
